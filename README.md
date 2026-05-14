@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1983" height="793" alt="github banner" src="https://github.com/user-attachments/assets/6766681f-c633-47e7-8498-1e69363dfcee" />
+
 
 <!--
 **AreebAliSiddiqui/AreebAliSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
