@@ -4,7 +4,7 @@
 
 💻 Web Development Learner
 
-🌱 Currently learning MERN Stack
+Currently learning MERN Stack
 
 🚀 Skills:
 
